@@ -1,0 +1,1 @@
+print("This is an essential part of next-gen spaceship control system be careful :)")
