@@ -10,4 +10,4 @@ Git tracks changes.
 
 Creating a new **branch** is quick and **simple**.
 
-Git branch managing strategy.
+Git adapts to a branch managing strategy.
