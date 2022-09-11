@@ -11,3 +11,5 @@ Git tracks changes.
 Creating a new **branch** is quick and **simple**.
 
 Git adapts to a branch managing strategy.
+
+Something new idk maybe Tekken 8 :)
